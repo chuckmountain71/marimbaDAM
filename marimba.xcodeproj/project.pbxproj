@@ -13,6 +13,13 @@
 		07A1DCF42809E98400AA6DE4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 07A1DCF22809E98400AA6DE4 /* Main.storyboard */; };
 		07A1DCF62809E98800AA6DE4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07A1DCF52809E98800AA6DE4 /* Assets.xcassets */; };
 		07A1DCF92809E98800AA6DE4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 07A1DCF72809E98800AA6DE4 /* LaunchScreen.storyboard */; };
+		07EEC5CC281897A40025E61F /* 4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 07EEC5C5281897A30025E61F /* 4.mp3 */; };
+		07EEC5CD281897A40025E61F /* 6.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 07EEC5C6281897A40025E61F /* 6.mp3 */; };
+		07EEC5CE281897A40025E61F /* 1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 07EEC5C7281897A40025E61F /* 1.mp3 */; };
+		07EEC5CF281897A40025E61F /* 2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 07EEC5C8281897A40025E61F /* 2.mp3 */; };
+		07EEC5D0281897A40025E61F /* 3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 07EEC5C9281897A40025E61F /* 3.mp3 */; };
+		07EEC5D1281897A40025E61F /* 5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 07EEC5CA281897A40025E61F /* 5.mp3 */; };
+		07EEC5D2281897A40025E61F /* 7.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 07EEC5CB281897A40025E61F /* 7.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +31,13 @@
 		07A1DCF52809E98800AA6DE4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		07A1DCF82809E98800AA6DE4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		07A1DCFA2809E98800AA6DE4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		07EEC5C5281897A30025E61F /* 4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 4.mp3; sourceTree = "<group>"; };
+		07EEC5C6281897A40025E61F /* 6.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 6.mp3; sourceTree = "<group>"; };
+		07EEC5C7281897A40025E61F /* 1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 1.mp3; sourceTree = "<group>"; };
+		07EEC5C8281897A40025E61F /* 2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 2.mp3; sourceTree = "<group>"; };
+		07EEC5C9281897A40025E61F /* 3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 3.mp3; sourceTree = "<group>"; };
+		07EEC5CA281897A40025E61F /* 5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 5.mp3; sourceTree = "<group>"; };
+		07EEC5CB281897A40025E61F /* 7.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 7.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +77,13 @@
 				07A1DCF52809E98800AA6DE4 /* Assets.xcassets */,
 				07A1DCF72809E98800AA6DE4 /* LaunchScreen.storyboard */,
 				07A1DCFA2809E98800AA6DE4 /* Info.plist */,
+				07EEC5C7281897A40025E61F /* 1.mp3 */,
+				07EEC5C8281897A40025E61F /* 2.mp3 */,
+				07EEC5C9281897A40025E61F /* 3.mp3 */,
+				07EEC5C5281897A30025E61F /* 4.mp3 */,
+				07EEC5CA281897A40025E61F /* 5.mp3 */,
+				07EEC5C6281897A40025E61F /* 6.mp3 */,
+				07EEC5CB281897A40025E61F /* 7.mp3 */,
 			);
 			path = marimba;
 			sourceTree = "<group>";
@@ -125,9 +146,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				07EEC5CE281897A40025E61F /* 1.mp3 in Resources */,
 				07A1DCF92809E98800AA6DE4 /* LaunchScreen.storyboard in Resources */,
+				07EEC5D2281897A40025E61F /* 7.mp3 in Resources */,
 				07A1DCF62809E98800AA6DE4 /* Assets.xcassets in Resources */,
 				07A1DCF42809E98400AA6DE4 /* Main.storyboard in Resources */,
+				07EEC5CC281897A40025E61F /* 4.mp3 in Resources */,
+				07EEC5CF281897A40025E61F /* 2.mp3 in Resources */,
+				07EEC5D1281897A40025E61F /* 5.mp3 in Resources */,
+				07EEC5D0281897A40025E61F /* 3.mp3 in Resources */,
+				07EEC5CD281897A40025E61F /* 6.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -294,6 +322,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -321,6 +350,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
